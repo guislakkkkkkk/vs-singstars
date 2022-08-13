@@ -1,0 +1,31 @@
+{
+	"description": "                                  ㅤCOMING SOON                                                           ㅤ",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "???",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"teaser",
+		"solid",
+		""
+	],
+	"overlayColor": [
+		36,
+		37,
+		77
+	],
+	"songs": [
+		[
+			"??????????",
+			"??????????",
+			[
+				102,
+				255,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "??????????"
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chrischan.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chris name0000" x="0" y="412" width="445" height="202" frameX="-1" frameY="-4" frameWidth="447" frameHeight="206"/>
+	<SubTexture name="chris name0001" x="0" y="412" width="445" height="202" frameX="-1" frameY="-4" frameWidth="447" frameHeight="206"/>
+	<SubTexture name="chris name0002" x="0" y="0" width="447" height="203" frameX="0" frameY="0" frameWidth="447" frameHeight="206"/>
+	<SubTexture name="chris name0003" x="0" y="0" width="447" height="203" frameX="0" frameY="0" frameWidth="447" frameHeight="206"/>
+	<SubTexture name="chris name0004" x="0" y="206" width="447" height="203" frameX="0" frameY="-2" frameWidth="447" frameHeight="206"/>
+	<SubTexture name="chris name0005" x="0" y="206" width="447" height="203" frameX="0" frameY="-2" frameWidth="447" frameHeight="206"/>
+</TextureAtlas>

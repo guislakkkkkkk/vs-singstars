@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M bf HEY",
+	"idle_anim": "chris menu idle",
+	"position": [
+		-175,
+		65
+	],
+	"scale": 0.8,
+	"image": "solid"
+}

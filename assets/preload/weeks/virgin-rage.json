@@ -1,0 +1,31 @@
+{
+	"description": "                                                                 ㅤ                                                                 ㅤYou have challenged your Impostor to a two-man dual singing/guitar showdown! prove your worth as the real CWC!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "singstar",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"liquid",
+		"solid",
+		""
+	],
+	"overlayColor": [
+		102,
+		255,
+		102
+	],
+	"songs": [
+		[
+			"Virgin Rage",
+			"liquid",
+			[
+				102,
+				255,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Singstar Challenge"
+}

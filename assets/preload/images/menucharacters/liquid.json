@@ -1,0 +1,10 @@
+{
+	"idle_anim": "liquid menu idle",
+	"confirm_anim": "liquid confirm",
+	"position": [
+		135,
+		105
+	],
+	"scale": 0.8,
+	"image": "liquid"
+}

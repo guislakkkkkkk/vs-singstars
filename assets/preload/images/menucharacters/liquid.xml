@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liquid.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liquid confirm0000" x="953" y="1386" width="463" height="655" frameX="-53" frameY="-62" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0001" x="953" y="1386" width="463" height="655" frameX="-53" frameY="-62" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0002" x="0" y="0" width="568" height="766"/>
+	<SubTexture name="liquid confirm0003" x="0" y="0" width="568" height="766"/>
+	<SubTexture name="liquid confirm0004" x="569" y="0" width="542" height="727" frameX="-13" frameY="-20" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0005" x="569" y="0" width="542" height="727" frameX="-13" frameY="-20" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0006" x="1417" y="1386" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0007" x="1417" y="1386" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0008" x="1530" y="664" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0009" x="1530" y="664" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0010" x="1530" y="664" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0011" x="1574" y="0" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid confirm0012" x="1574" y="0" width="464" height="650" frameX="-50" frameY="-57" frameWidth="568" frameHeight="766"/>
+	<SubTexture name="liquid menu idle0000" x="0" y="767" width="485" height="646" frameX="-2" frameY="-17" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0001" x="0" y="767" width="485" height="646" frameX="-2" frameY="-17" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0002" x="569" y="728" width="491" height="645" frameX="0" frameY="-18" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0003" x="569" y="728" width="491" height="645" frameX="0" frameY="-18" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0004" x="1112" y="0" width="461" height="663" frameX="-4" frameY="0" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0005" x="1112" y="0" width="461" height="663" frameX="-4" frameY="0" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0006" x="1061" y="728" width="468" height="657" frameX="-4" frameY="-6" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0007" x="1061" y="728" width="468" height="657" frameX="-4" frameY="-6" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0008" x="486" y="1374" width="466" height="658" frameX="-4" frameY="-5" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0009" x="486" y="1374" width="466" height="658" frameX="-4" frameY="-5" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0010" x="486" y="1374" width="466" height="658" frameX="-4" frameY="-5" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0011" x="486" y="1374" width="466" height="658" frameX="-4" frameY="-5" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0012" x="486" y="1374" width="466" height="658" frameX="-4" frameY="-5" frameWidth="491" frameHeight="663"/>
+	<SubTexture name="liquid menu idle0013" x="486" y="1374" width="466" height="658" frameX="-4" frameY="-5" frameWidth="491" frameHeight="663"/>
+</TextureAtlas>

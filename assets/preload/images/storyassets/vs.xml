@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vs.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vsd0000" x="0" y="767" width="298" height="197" frameX="0" frameY="0" frameWidth="300" frameHeight="197"/>
+	<SubTexture name="vsd0001" x="435" y="480" width="282" height="190" frameX="-7" frameY="0" frameWidth="300" frameHeight="197"/>
+	<SubTexture name="vsd0002" x="299" y="767" width="299" height="189" frameX="-1" frameY="-2" frameWidth="300" frameHeight="197"/>
+	<SubTexture name="vsfade0000" x="599" y="671" width="276" height="182" frameX="-225" frameY="-148" frameWidth="726" frameHeight="479"/>
+	<SubTexture name="vsfade0001" x="0" y="480" width="434" height="286" frameX="-146" frameY="-96" frameWidth="726" frameHeight="479"/>
+	<SubTexture name="vsfade0002" x="0" y="0" width="726" height="479"/>
+</TextureAtlas>

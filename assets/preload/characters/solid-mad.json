@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "solid MAD idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				60
+			],
+			"anim": "transition",
+			"fps": 24,
+			"name": "solid throwing guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				86
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "solid mad up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "solid mad down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				113,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "solid mad left note"
+		},
+		{
+			"offsets": [
+				-3,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "solid mad right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "solid mad down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				85
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "solid mad miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				29
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "solid mad right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "solid mad left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				20
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "solid MAD idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/solid_mad",
+	"position": [
+		160,
+		285
+	],
+	"healthicon": "solid",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		55,
+		60
+	],
+	"camera_position": [
+		180,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

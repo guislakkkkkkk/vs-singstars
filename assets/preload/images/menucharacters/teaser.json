@@ -1,0 +1,10 @@
+{
+	"idle_anim": "familiar LOCKED",
+	"confirm_anim": "snooping?",
+	"position": [
+		135,
+		105
+	],
+	"scale": 0.8,
+	"image": "teaser"
+}

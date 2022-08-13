@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "solid idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				20
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "solid idle",
+			"indices": [9, 10, 11, 12]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "solid chris up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "solid chris down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "solid chris left note"
+		},
+		{
+			"offsets": [
+				3,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "solid chris right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "solid down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				89
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "solid up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				60
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "solidmissrighth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				54
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "solidmissleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				16
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "solid hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				26
+			],
+			"anim": "transition",
+			"fps": 24,
+			"name": "solid guitar",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "no",
+			"loop": false,
+			"name": "solid oh no you dont"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/solid",
+	"position": [
+		100,
+		300
+	],
+	"healthicon": "solid",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		55,
+		60
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

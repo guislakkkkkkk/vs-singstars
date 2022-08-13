@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "liquid chris idle"
+		},
+		{
+			"offsets": [
+				147,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "liquid chris left"
+		},
+		{
+			"offsets": [
+				147,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "liquid chris down"
+		},
+		{
+			"offsets": [
+				84,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "liquid chris up"
+		},
+		{
+			"offsets": [
+				95,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "liquid chris right"
+		},
+		{
+			"offsets": [
+				16,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "liquid chris peace"
+		},
+		{
+			"offsets": [
+				80,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "liquid guitar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				8
+			],
+			"anim": "sigh",
+			"fps": 24,
+			"name": "liquid chris sigh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liquid",
+	"position": [
+		-50,
+		-50
+	],
+	"healthicon": "liquid",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

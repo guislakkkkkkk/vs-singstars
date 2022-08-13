@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "liquid chris idle guitar"
+		},
+		{
+			"offsets": [
+				101,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "liquid chris guitar left"
+		},
+		{
+			"offsets": [
+				-16,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "liquid chris down guitar"
+		},
+		{
+			"offsets": [
+				-14,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "liquid chris up guitar"
+		},
+		{
+			"offsets": [
+				-39,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "liquid chris right guitar"
+		},
+		{
+			"offsets": [
+				4,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "liquid chris hey guitar"
+		},
+		{
+			"offsets": [
+				5,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "liquid chris post solo"
+		},
+		{
+			"offsets": [
+				22,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shocked",
+			"indices": [],
+			"name": "liquid chris shocked"
+		},
+		{
+			"offsets": [
+				1760,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transition",
+			"indices": [],
+			"name": "liquid back to mic"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liquid_guitar",
+	"position": [
+		-70,
+		-50
+	],
+	"healthicon": "liquid",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		51
+	],
+	"camera_position": [
+		-860,
+		-79
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

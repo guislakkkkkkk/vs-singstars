@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liquid.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liquid name instance 10000" x="0" y="197" width="428" height="194" frameX="-3" frameY="-3" frameWidth="434" frameHeight="197"/>
+	<SubTexture name="liquid name instance 10001" x="0" y="197" width="428" height="194" frameX="-3" frameY="-3" frameWidth="434" frameHeight="197"/>
+	<SubTexture name="liquid name instance 10002" x="0" y="0" width="430" height="197" frameX="-4" frameY="0" frameWidth="434" frameHeight="197"/>
+	<SubTexture name="liquid name instance 10003" x="0" y="0" width="430" height="197" frameX="-4" frameY="0" frameWidth="434" frameHeight="197"/>
+	<SubTexture name="liquid name instance 10004" x="0" y="391" width="428" height="185" frameX="0" frameY="-3" frameWidth="434" frameHeight="197"/>
+	<SubTexture name="liquid name instance 10005" x="0" y="391" width="428" height="185" frameX="0" frameY="-3" frameWidth="434" frameHeight="197"/>
+</TextureAtlas>

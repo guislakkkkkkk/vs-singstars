@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solid.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chris menu idle instance 10000" x="0" y="0" width="496" height="481" frameX="0" frameY="-10" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10001" x="0" y="0" width="496" height="481" frameX="0" frameY="-10" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10002" x="483" y="490" width="489" height="482" frameX="-6" frameY="-10" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10003" x="483" y="490" width="489" height="482" frameX="-6" frameY="-10" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10004" x="973" y="490" width="480" height="491" frameX="-18" frameY="0" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10005" x="973" y="490" width="480" height="491" frameX="-18" frameY="0" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10006" x="497" y="0" width="483" height="489" frameX="-15" frameY="-2" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10007" x="497" y="0" width="483" height="489" frameX="-15" frameY="-2" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10008" x="0" y="482" width="482" height="490" frameX="-16" frameY="-1" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10009" x="0" y="482" width="482" height="490" frameX="-16" frameY="-1" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10010" x="0" y="482" width="482" height="490" frameX="-16" frameY="-1" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10011" x="0" y="482" width="482" height="490" frameX="-16" frameY="-1" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10012" x="0" y="482" width="482" height="490" frameX="-16" frameY="-1" frameWidth="498" frameHeight="492"/>
+	<SubTexture name="chris menu idle instance 10013" x="0" y="482" width="482" height="490" frameX="-16" frameY="-1" frameWidth="498" frameHeight="492"/>
+</TextureAtlas>

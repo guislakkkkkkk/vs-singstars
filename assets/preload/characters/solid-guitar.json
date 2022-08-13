@@ -1,0 +1,233 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-24,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "solid guitar up"
+		},
+		{
+			"offsets": [
+				4,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "solid guitar down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "solid guitar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "solid guitar right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "solid guitar miss down"
+		},
+		{
+			"offsets": [
+				-48,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "solid guitar miss up"
+		},
+		{
+			"offsets": [
+				-33,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "solid guitar miss right"
+		},
+		{
+			"offsets": [
+				15,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "solid guitar miss left"
+		},
+		{
+			"offsets": [
+				-14,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "solid guitar hey"
+		},
+		{
+			"offsets": [
+				3,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "solid guitar idle"
+		},
+		{
+			"offsets": [
+				3,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "solid guitar idle"
+		},
+		{
+			"offsets": [
+				-10,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "reaction",
+			"loop": false,
+			"name": "live chris reaction"
+		},
+		{
+			"offsets": [
+				-10,
+				33
+			],
+			"indices": [
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45
+			],
+			"fps": 24,
+			"anim": "reaction-loop",
+			"loop": true,
+			"name": "live chris reaction"
+		},
+		{
+			"offsets": [
+				-10,
+				33
+			],
+			"indices": [
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78
+			],
+			"fps": 24,
+			"anim": "stop",
+			"loop": false,
+			"name": "live chris reaction"
+		},
+		{
+			"offsets": [
+				-10,
+				33
+			],
+			"indices": [
+				79,
+				80,
+				81,
+				82
+			],
+			"fps": 24,
+			"anim": "stop-loop",
+			"loop": true,
+			"name": "live chris reaction"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/solid_guitar",
+	"position": [
+		175,
+		300
+	],
+	"healthicon": "solid",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		55,
+		60
+	],
+	"camera_position": [
+		210,
+		-15
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
