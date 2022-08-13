@@ -46,12 +46,16 @@ import hscript.Interp;
 import Discord;
 #end
 
+#if android
+import android.Hardware;
+#end
+
 using StringTools;
 
 class FunkinLua {
-	public static var Function_Stop:Dynamic = 1;
-	public static var Function_Continue:Dynamic = 0;
-	public static var Function_StopLua:Dynamic = 2;
+	public static var Function_Stop:Dynamic = #if windows 1 #else "Function_Stop" #end;
+	public static var Function_Continue:Dynamic = #if windows 0 #else "Function_Continue" #end;
+	public static var Function_StopLua:Dynamic = #if windows 2 #else "Function_StopLua" #end;
 
 	//public var errorHandler:String->Void;
 	#if LUA_ALLOWED
@@ -80,7 +84,7 @@ class FunkinLua {
 			var resultStr:String = Lua.tostring(lua, result);
 			if(resultStr != null && result != 0) {
 				trace('Error on lua script! ' + resultStr);
-				#if windows
+				#if (windows || android)
 				lime.app.Application.current.window.alert(resultStr, 'Error on lua script!');
 				#else
 				luaTrace('Error loading lua script: "$script"\n' + resultStr, true, false, FlxColor.RED);
@@ -317,7 +321,7 @@ class FunkinLua {
 				doPush = true;
 			}
 			else {
-				cervix = Paths.getPreloadPath(cervix);
+				cervix = SUtil.getPath() + Paths.getPreloadPath(cervix);
 				if(FileSystem.exists(cervix)) {
 					doPush = true;
 				}
@@ -370,7 +374,7 @@ class FunkinLua {
 				doPush = true;
 			}
 			else {
-				cervix = Paths.getPreloadPath(cervix);
+				cervix = SUtil.getPath() + Paths.getPreloadPath(cervix);
 				if(FileSystem.exists(cervix)) {
 					doPush = true;
 				}
@@ -533,7 +537,7 @@ class FunkinLua {
 				doPush = true;
 			}
 			else {
-				cervix = Paths.getPreloadPath(cervix);
+				cervix = SUtil.getPath() + Paths.getPreloadPath(cervix);
 				if(FileSystem.exists(cervix)) {
 					doPush = true;
 				}
@@ -584,7 +588,7 @@ class FunkinLua {
 				}
 			}
 			#else
-			cervix = Paths.getPreloadPath(cervix);
+			cervix = SUtil.getPath() + Paths.getPreloadPath(cervix);
 			if(Assets.exists(cervix)) {
 				doPush = true;
 			}
